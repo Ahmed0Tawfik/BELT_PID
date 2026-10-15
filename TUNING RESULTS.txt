@@ -1,0 +1,14 @@
+Ultimate Gain (Ku)       = 33.713
+Ultimate Period (Tu)     = 0.496 s
+Bias PWM                 = 116
+Relay Amplitude          = +/-40
+
+//CLASSIC ZN PID
+kp = 20.228;
+ki = 81.563;
+kd = 1.254;
+
+//PESSEN'S INTEGRAL RULE
+Kp = 23.599;
+Ki = 118.945;
+Kd = 1.756;
